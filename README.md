@@ -6,12 +6,16 @@
 # 效果展示
 
 微信小程序:
-<img src="example/IMG_3170.PNG" />
+<img src="https://app.huangque888.com/cdn/IMG_3170.PNG" width="200" />
 
 # 在线演示
-<img src="example/xcx.png" />
+<img src="https://app.huangque888.com/cdn/xcx.png" width="200" />
 
 # 完成版代码由uniapp编写
 联系方式：
 邮箱：laowua99@qq.com
 微信: laowua99
+网站: https://app.huangque888.com
+公众号:
+<img src="https://app.huangque888.com/cdn/erweima.png" width="200" />
+
