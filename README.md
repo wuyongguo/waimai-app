@@ -5,17 +5,18 @@
 
 # 效果展示
 
-微信小程序:
+微信小程序: <br />
 <img src="https://app.huangque888.com/cdn/IMG_3170.PNG" width="200" />
 
 # 在线演示
 <img src="https://app.huangque888.com/cdn/xcx.png" width="200" />
 
 # 完成版代码由uniapp编写
-联系方式：
-邮箱：laowua99@qq.com
-微信: laowua99
-网站: https://app.huangque888.com
+联系方式： <br />
+邮箱：laowua99@qq.com <br />
+微信: laowua99 <br />
+网站: https://app.huangque888.com <br />
 公众号:
+<br />
 <img src="https://app.huangque888.com/cdn/erweima.png" width="200" />
 
