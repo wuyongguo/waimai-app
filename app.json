@@ -1,0 +1,36 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/index/moyu"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "红包优惠券天天领",
+    "navigationBarBackgroundColor": "#F33F5C",
+    "backgroundColor": "#FFFFFF",
+    "titleView": false
+  },
+  "tabBar": {
+    "borderStyle": "black",
+    "backgroundColor": "#FFFFFF",
+    "color": "#333333",
+    "fontSize": "24upx",
+    "selectedColor": "#000",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "static/home.png",
+        "selectedIconPath": "static/home-active.png"
+      },
+      {
+        "pagePath": "pages/index/moyu",
+        "text": "摸鱼",
+        "iconPath": "static/game.png",
+        "selectedIconPath": "static/game-active.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}
